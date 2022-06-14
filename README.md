@@ -7,3 +7,4 @@
 This is the backend for the XTACIONAMIENTO project. 
 
 
+https://docs.microsoft.com/en-us/samples/azure-samples/azure-sql-db-django/azure-sql-db-django/
